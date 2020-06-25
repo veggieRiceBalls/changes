@@ -1,7 +1,5 @@
 import React from 'react';
 import './SideMenu.css';
-import ASElogo from './ASE_logo.jpg';
-import axios from 'axios';
 
 
 /** Боковое меню **/
